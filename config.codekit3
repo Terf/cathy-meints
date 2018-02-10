@@ -16,13 +16,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/author.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/author.html",
-		"oF": 0
-		},
 	"\/biography.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -100,6 +93,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/bio2.png": {
+		"ft": 32768,
+		"iS": 792418,
+		"oA": 0,
+		"oAP": "\/images\/bio2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/bpi1.png": {
 		"ft": 32768,
 		"iS": 334113,
@@ -144,6 +148,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/caldwell3.png": {
+		"ft": 32768,
+		"iS": 1290146,
+		"oA": 0,
+		"oAP": "\/images\/caldwell3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/caldwell4.png": {
+		"ft": 32768,
+		"iS": 1486656,
+		"oA": 0,
+		"oAP": "\/images\/caldwell4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/CathyMeints-002.jpg": {
 		"ft": 16384,
 		"iS": 1572559,
@@ -152,77 +178,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/images\/IMG_2082.jpg": {
-		"ft": 16384,
-		"iS": 1873429,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2082.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/IMG_2087.jpg": {
-		"ft": 16384,
-		"iS": 1640950,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2087.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/IMG_2089.jpg": {
-		"ft": 16384,
-		"iS": 1400048,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2089.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/IMG_2090.jpg": {
-		"ft": 16384,
-		"iS": 1844277,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2090.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/IMG_2092.jpg": {
-		"ft": 16384,
-		"iS": 1442533,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2092.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/IMG_2093.jpg": {
-		"ft": 16384,
-		"iS": 1516973,
-		"oA": 0,
-		"oAP": "\/images\/IMG_2093.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/index.png": {
-		"ft": 32768,
-		"iS": 792418,
-		"oA": 0,
-		"oAP": "\/images\/index.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/images\/teacher1.png": {
