@@ -7,7 +7,7 @@
 		"uuidString": "37EEE236-F446-4C25-9BEB-C5A913AFFEDB"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26268",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -28,6 +28,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/caldwell-collection-of-viols.html",
+		"oF": 0
+		},
+	"\/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contact.html",
 		"oF": 0
 		},
 	"\/css\/bootstrap.css": {
@@ -1357,6 +1364,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,

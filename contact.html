@@ -4,21 +4,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.css">
-    <title>Catharina Meints</title>
+    <title>Catharina Meints | Biography</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Catharina Meints</a>
+      <a class="navbar-brand" href="index.html">Catharina Meints</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="biography.html">Biography</a>
+            <a class="nav-link" href="biography.html">Biography <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="teacher.html">Teacher</a>
@@ -35,7 +35,7 @@
           <li class="nav-item">
             <a class="nav-link" href="music-from-oberlin.html">Music from Oberlin</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item active">
             <a class="nav-link" href="contact.html">Contact</a>
           </li>
         </ul>
@@ -43,11 +43,26 @@
     </nav>
     <div class="container">
       <div class="row justify-content-md-center">
-        <div class="col-md-8">
-          <h1 class="mt-3">Catharina Meints <small class="text-muted">Musician</small></h1>
+        <div class="col-md-8 mb-4">
+          <h1 class="mt-4">Contact</h1>
           <hr>
-          <h4>Performer &middot; Teacher &middot; Author &middot; Collector</h4>
-          <img src="images/CathyMeints-002.jpg" alt="Cathy Meints" class="rounded img-fluid mx-auto mt-4 thumbnail" style="display: block;">
+          <form>
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="inputEmail4">Your Email</label>
+                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+              </div>
+              <div class="form-group col-md-6">
+                <label for="subject">Subject</label>
+                <input type="text" class="form-control" id="subject" placeholder="Subject">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea class="form-control" id="message" rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+          </form>
         </div>
       </div>
     </div>
