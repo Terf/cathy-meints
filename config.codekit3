@@ -187,6 +187,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/regal.png": {
+		"ft": 32768,
+		"iS": 66567,
+		"oA": 0,
+		"oAP": "\/images\/regal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/teacher1.png": {
 		"ft": 32768,
 		"iS": 996280,

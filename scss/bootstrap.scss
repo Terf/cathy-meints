@@ -21,7 +21,7 @@
 @import "dropdown";
 // @import "button-group";
 // @import "input-group";
-@import "custom-forms";
+// @import "custom-forms";
 @import "nav";
 @import "navbar";
 @import "card";
@@ -42,7 +42,7 @@
 @import "print";
 
 html, body {
-	background: $gray-100;
+	background: $gray-100 url(/cathy-meints/images/regal.png) repeat;
 }
 .container {
 	background: #fff;
