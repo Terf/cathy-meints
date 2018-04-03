@@ -89,6 +89,16 @@
 		"oAP": "\/docs\/web bio.docx",
 		"oF": 0
 		},
+	"\/images\/bg.jpg": {
+		"ft": 16384,
+		"iS": 132276,
+		"oA": 0,
+		"oAP": "\/images\/bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/bio.png": {
 		"ft": 32768,
 		"iS": 615956,
