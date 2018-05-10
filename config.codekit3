@@ -7,7 +7,7 @@
 		"uuidString": "37EEE236-F446-4C25-9BEB-C5A913AFFEDB"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -92,6 +92,7 @@
 	"\/images\/bg.jpg": {
 		"ft": 16384,
 		"iS": 132276,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/bg.jpg",
 		"oF": 0,
@@ -190,6 +191,7 @@
 	"\/images\/CathyMeints-002.jpg": {
 		"ft": 16384,
 		"iS": 1572559,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/CathyMeints-002.jpg",
 		"oF": 0,
@@ -1377,7 +1379,8 @@
 	"creationDate": 539141323,
 	"displayValue": "cathymeints",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-hart"
+	"iconImageName": "meme-hart",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3180,6 +3183,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
