@@ -47,11 +47,25 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/docs\/Alphabetical list of composers.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/Alphabetical list of composers.docx",
+		"oF": 0
+		},
 	"\/docs\/HOME.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/docs\/HOME.docx",
+		"oF": 0
+		},
+	"\/docs\/Monsieur de Ste.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/Monsieur de Ste.docx",
 		"oF": 0
 		},
 	"\/docs\/Music from Oberlinweb.docx": {
@@ -61,11 +75,25 @@
 		"oAP": "\/docs\/Music from Oberlinweb.docx",
 		"oF": 0
 		},
+	"\/docs\/Numberes recording list.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/Numberes recording list.docx",
+		"oF": 0
+		},
 	"\/docs\/Oberlin Baroque Performance Instituteweb.docx": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/docs\/Oberlin Baroque Performance Instituteweb.docx",
+		"oF": 0
+		},
+	"\/docs\/Performers index.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/Performers index.docx",
 		"oF": 0
 		},
 	"\/docs\/teacherweb.docx": {
@@ -87,6 +115,34 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/docs\/web bio.docx",
+		"oF": 0
+		},
+	"\/docs\/~$mberes recording list.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/~$mberes recording list.docx",
+		"oF": 0
+		},
+	"\/docs\/~$nsieur de Ste.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/~$nsieur de Ste.docx",
+		"oF": 0
+		},
+	"\/docs\/~$phabetical list of composers.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/~$phabetical list of composers.docx",
+		"oF": 0
+		},
+	"\/docs\/~$rformers index.docx": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/docs\/~$rformers index.docx",
 		"oF": 0
 		},
 	"\/images\/bg.jpg": {
